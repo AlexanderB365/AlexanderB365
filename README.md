@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex!
 
-<!--
-**AlexanderB365/AlexanderB365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Living in the Microsoft cloud | MSP-tested | Licensing Jedi | Always building, learning, and sharing smarter ways to use tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I do
+- Guide businesses through Microsoft 365, Azure, and modern cloud solutions
+- Help organizations make sense of Microsoft licensing and optimize their investments
+- Advocate for smarter cloud security, compliance, and AI adoption
+- Share real-world strategies through community involvement, consulting, and content
+
+---
+
+### ⚡ Areas of Focus
+- Microsoft 365 | Azure | Microsoft Licensing
+- AI for Business | Practical Adoption Strategies
+- Community Building | Evangelism & Education
+
+---
+
+### 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/alexanderb365/)
+
+---
+
+*"Always learning. Always sharing. Always moving forward."*
